@@ -1,16 +1,8 @@
-# image_reader
+# iKitchen
 
-A new Flutter project.
+## Aim
+Our goal with this app is to help remove the boundaries which are faced by the Visually Impaired, specifically during a task as essential as cooking.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Core Working
+Our app uses Object Detection and Recognition in order to help identify the vegetables, fruits and other ingredients and condiments which can be found around the common kitchen environment. Further, this is used to create an Inventory System for the user, so that they can not only keep a track of the items in their kitchen, but also get descriptions, recipes etc for the same
+ 
